@@ -6,7 +6,7 @@ This is everyone's first panic moment, when they teleport proudly to Green Mount
 
 1. Append your existing cfgeconomycore.xml file with the commented section in the Repository's cfgeconomycore.xml file. Only add what is commented to your existing file.
 
-Don't know what a cfgeconomycore.xml file is or why it's important? https://youtu.be/bvf4t9zJW7s?si=Dl2juBXLrriyco_C
+Don't know what a cfgeconomycore.xml file is or why it's important? See Scalespeeder's Video:  https://youtu.be/bvf4t9zJW7s?si=Dl2juBXLrriyco_C
 
 2. Append the commented section in the Repository's cfgeventspawns.xml file to your cfgeventspawns.xml file. Only add what is commented to your existing file.
 
