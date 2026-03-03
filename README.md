@@ -14,4 +14,4 @@ Don't know what a cfgeconomycore.xml file is or why it's important? See Scalespe
 
 Note: The Chernarus Chernogorsk_Ship.map & Gorka_HuntingHouse.map are just built up (cool) locations you can mess with once you know what you're doing. They're empty.
 
-That's it. Teleport to Green Mountain, Kamenka or any of the other locations and you have NPCs there to sell stuff. Enjoy!
+That's it. Teleport to Green Mountain, Kamenka or any of the other locations and you have NPCs there to sell stuff. Things should've been added to sell & also spawn on the map, enjoy!
